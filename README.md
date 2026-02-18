@@ -1,4 +1,4 @@
-# Overview-of-our-Project
+# Overview-of-my-Project
 
 I have created a project on recommendation systems for movies using Machine Learning Algorithms.
 
